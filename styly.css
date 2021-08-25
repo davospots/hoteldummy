@@ -17,3 +17,10 @@
 .nav-list a:hover{
     color: coral;
 }
+.nav-list{
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.5s;
+}
+.nav-list:hover{
+    border-bottom: 2px solid black;
+}
