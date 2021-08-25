@@ -8,3 +8,12 @@
     font-size: 30px;
     text-transform: uppercase;
 }
+
+.nav-list a{
+    text-decoration: none;
+    color: rgb(98, 119, 77);
+    transition: color 0.5s;
+}
+.nav-list a:hover{
+    color: coral;
+}
